@@ -1,0 +1,34 @@
+origin;caption;type;link;option
+Google;;Maps;https://mt1.google.com/vt/lyrs=m&x=${x}&y=${y}&z=${z}.png;google-maps
+Google;;Satellite;https://mt1.google.com/vt/lyrs=s&x=${x}&y=${y}&z=${z}.png;google-satellite
+Google;;Terrain;https://mt1.google.com/vt/lyrs=t&x=${x}&y=${y}&z=${z}.png;google-terrain
+Google;;terrain hybrid;https://mt1.google.com/vt/lyrs=p&x=${x}&y=${y}&z=${z}.png;google-terrain-hybrid
+Google;;satellite hybrid;https://mt1.google.com/vt/lyrs=y&x=${x}&y=${y}&z=${z}.png;google-satellite-hybrid
+Stamen;Map tiles by Stamen Design, under CC BY 3.0. Data by OpenStreetMap, under ODbL;terrain;http://tile.stamen.com/terrain/${z}/${x}/${y}.png;stamen-terrain
+Stamen;Map tiles by Stamen Design, under CC BY 3.0. Data by OpenStreetMap, under ODbL;toner;http://tile.stamen.com/toner/${z}/${x}/${y}.png;stamen-toner
+Stamen;Map tiles by Stamen Design, under CC BY 3.0. Data by OpenStreetMap, under ODbL;toner background; http://tile.stamen.com/toner-background/${z}/${x}/${y}.png;stamen-toner-background
+Stamen;Map tiles by Stamen Design, under CC BY 3.0. Data by OpenStreetMap, under ODbL;toner lite;http://tile.stamen.com/toner-lite/${z}/${x}/${y}.png;stamen-toner-lite
+Stamen;Map tiles by Stamen Design, under CC BY 3.0. Data by OpenStreetMap, under ODbL;watercolor;http://tile.stamen.com/watercolor/${z}/${x}/${y}.png;stamen-watercolor
+Wikimedia;OpenStreetMap contributors, under ODbL;map;https://maps.wikimedia.org/osm-intl/${z}/${x}/${y}.png;wikimedia-map
+Wikimedia;OpenStreetMap contributors, under ODbL;hike bike map;http://tiles.wmflabs.org/hikebike/${z}/${x}/${y}.png;wikimedia-hike-bike-map
+ESRI;Esri, HERE, Garmin, INCREMENT P, © OpenStreetMap contributors, and the GIS user community;boundaries places;https://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/${z}/${y}/${x}.jpeg;esri-boundaries-places
+ESRI;Esri, HERE, Garmin, INCREMENT P, © OpenStreetMap contributors, and the GIS user community;dark gray;http://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/${z}/${y}/${x}.jpeg;esri-dark-gray
+ESRI;Esri, HERE, Garmin, INCREMENT P, © OpenStreetMap contributors, and the GIS user community;light gray;http://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/${z}/${y}/${x}.jpeg;esri-light-gray
+ESRI;Esri, HERE, Garmin, INCREMENT P, © OpenStreetMap contributors, and the GIS user community;national geographic;http://services.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/${z}/${y}/${x}.jpeg;esri-national-geographic
+ESRI;Esri, HERE, Garmin, INCREMENT P, © OpenStreetMap contributors, and the GIS user community;ocean;https://services.arcgisonline.com/ArcGIS/rest/services/Ocean/World_Ocean_Base/MapServer/tile/${z}/${y}/${x}.jpeg;esri-ocean
+ESRI;Esri, HERE, Garmin, INCREMENT P, © OpenStreetMap contributors, and the GIS user community;satellite;https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/${z}/${y}/${x}.jpeg;esri-satellite
+ESRI;Esri, HERE, Garmin, INCREMENT P, © OpenStreetMap contributors, and the GIS user community;standard;https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/${z}/${y}/${x}.jpeg;esri-standard
+ESRI;Esri, HERE, Garmin, INCREMENT P, © OpenStreetMap contributors, and the GIS user community;terrain;https://server.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer/tile/${z}/${y}/${x}.jpeg;esri-terrain
+ESRI;Esri, HERE, Garmin, INCREMENT P, © OpenStreetMap contributors, and the GIS user community;transportation;https://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Transportation/MapServer/tile/${z}/${y}/${x}.jpeg;esri-transportation
+ESRI;Esri, HERE, Garmin, INCREMENT P, © OpenStreetMap contributors, and the GIS user community;topo world;http://services.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/${z}/${y}/${x}.jpeg;esri-topo-world
+OSM;OpenStreetMap contributors, CC-BY-SA;standard;http://tile.openstreetmap.org/${z}/${x}/${y}.png;osm-standard
+OSM;OpenStreetMap contributors, CC-BY-SA;h.o.t.;http://tile.openstreetmap.fr/hot/${z}/${x}/${y}.png;osm-h.o.t.
+OSM;OpenStreetMap contributors, CC-BY-SA;monochrome;http://tiles.wmflabs.org/bw-mapnik/${z}/${x}/${y}.png;osm-monochrome
+OpenTopoMap;"Kartendaten: © OpenStreetMap-Mitwirkende, SRTM | Kartendarstellung: © OpenTopoMap (CC-BY-SA)""";standard;https://tile.opentopomap.org/${z}/${x}/${y}.png;opentopomap-standard
+Strava;OpenStreetMap contributors, CC-BY-SA;all;https://heatmap-external-b.strava.com/tiles/all/bluered/${z}/${x}/${y}.png;strava-all
+Strava;OpenStreetMap contributors, CC-BY-SA;run;https://heatmap-external-b.strava.com/tiles/run/bluered/${z}/${x}/${y}.png?v=19;strava-run
+Open Weather Map;Map tiles by OpenWeatherMap, under CC BY-SA 4.0;temperature;http://tile.openweathermap.org/map/temp_new/${z}/${x}/${y}.png?APPID=1c3e4ef8e25596946ee1f3846b53218a;open-weather-map-temperature
+Open Weather Map;Map tiles by OpenWeatherMap, under CC BY-SA 4.1;Clouds;http://tile.openweathermap.org/map/clouds_new/${z}/${x}/${y}.png?APPID=ef3c5137f6c31db50c4c6f1ce4e7e9dd;open-weather-map-clouds
+Open Weather Map;Map tiles by OpenWeatherMap, under CC BY-SA 4.2;Wind Speed;http://tile.openweathermap.org/map/wind_new/${z}/${x}/${y}.png?APPID=f9d0069aa69438d52276ae25c1ee9893;open-weather-map-wind-speed
+CartoDb;Map tiles by CartoDB, under CC BY 3.0. Data by OpenStreetMap, under ODbL.;Dark Matter;http://basemaps.cartocdn.com/dark_all/${z}/${x}/${y}.png;cartodb-dark-matter
+CartoDb;Map tiles by CartoDB, under CC BY 3.0. Data by OpenStreetMap, under ODbL.;Positron;http://basemaps.cartocdn.com/light_all/${z}/${x}/${y}.png;cartodb-positron
